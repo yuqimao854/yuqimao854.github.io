@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.125" height="28.667" viewBox="0 0 26.125 28.667">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #02a26d;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #3f3c3c;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cb88"/>
+      <stop offset="1" stop-color="#01b479"/>
+    </linearGradient>
+  </defs>
+  <g id="dp_gouwubo1_icon" transform="translate(-141.325 -464.5)">
+    <path id="路径_11" data-name="路径 11" class="cls-1" d="M164.448,527.549H144.326a3,3,0,0,1-2.956-3.515l2.965-17.047a3,3,0,0,1,2.956-2.487h14.193a3,3,0,0,1,2.956,2.487l2.965,17.047A3,3,0,0,1,164.448,527.549Z" transform="translate(0 -34.382)"/>
+    <g id="组_19" data-name="组 19" transform="translate(147.573 472.924)">
+      <circle id="椭圆_9" data-name="椭圆 9" class="cls-2" cx="1.603" cy="1.603" r="1.603" transform="translate(0 0)"/>
+      <circle id="椭圆_10" data-name="椭圆 10" class="cls-2" cx="1.603" cy="1.603" r="1.603" transform="translate(10.422 0)"/>
+    </g>
+    <path id="路径_12" data-name="路径 12" class="cls-3" d="M190.922,470.667v-4.558c0-2.545-2.333-4.608-5.211-4.608s-5.211,2.063-5.211,4.608v4.558" transform="translate(-31.324 4)"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115" height="115" viewBox="0 0 115 115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00c300;
+      }
+
+      .cls-3 {
+        filter: url(#椭圆_27);
+      }
+    </style>
+    <filter id="椭圆_27" x="0" y="0" width="115" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#6b819a" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="zc_line_button" transform="translate(29.807 19.807)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -29.81, -19.81)">
+      <circle id="椭圆_27-2" data-name="椭圆 27" class="cls-1" cx="27.5" cy="27.5" r="27.5" transform="translate(30 20)"/>
+    </g>
+    <path id="路径_87" data-name="路径 87" class="cls-2" d="M15.126,0C6.772,0,0,5.331,0,11.906c0,6.108,5.845,11.138,13.373,11.823a.92.92,0,0,1,.615.4c.334.55.1,1.722-.163,3.036s1.151.632,1.464.48a64.176,64.176,0,0,0,10.451-7.261,10.8,10.8,0,0,0,4.512-8.48C30.252,5.331,23.479,0,15.126,0ZM10.084,15.022a.807.807,0,0,1-.813.8H6.506c-.488,0-1.139-.169-1.139-.959V8.949a.806.806,0,0,1,.813-.8h.163a.806.806,0,0,1,.813.8v5.113H9.27a.807.807,0,0,1,.814.8v.16Zm2.279-.159a.812.812,0,1,1-1.624,0V9.119a.812.812,0,0,1,1.624,0v5.744Zm7.154,0a.9.9,0,0,1-.813.8.92.92,0,0,1-.958-.458l-2.62-3.675v3.333a.813.813,0,0,1-1.626,0V9.109a.806.806,0,0,1,.813-.8,1.029,1.029,0,0,1,.922.585c.252.372,2.658,3.727,2.658,3.727V9.109a.814.814,0,0,1,1.627,0v5.753ZM24.4,11.187a.8.8,0,0,1,0,1.6H22.282v1.278H24.4a.8.8,0,1,1,0,1.6H21.225a.725.725,0,0,1-.733-.719V9.03a.725.725,0,0,1,.733-.719H24.4a.8.8,0,1,1,0,1.6H22.282v1.279H24.4Z" transform="translate(12.632 14.79)"/>
+  </g>
+</svg>

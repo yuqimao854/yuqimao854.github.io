@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="18" viewBox="0 0 15 18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #3f3c3c;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: #0fce8f;
+        stroke-width: 2.5px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="zc_shouji_icon" transform="translate(-146 -235.222)">
+    <g id="矩形_78" data-name="矩形 78" class="cls-1" transform="translate(146 235.222)">
+      <rect class="cls-4" width="15" height="18" rx="3"/>
+      <rect class="cls-5" x="1" y="1" width="13" height="16" rx="2"/>
+    </g>
+    <g id="椭圆_26" data-name="椭圆 26" class="cls-2" transform="translate(153 248.222)">
+      <circle class="cls-4" cx="1" cy="1" r="1"/>
+      <circle class="cls-5" cx="1" cy="1" r="0.25"/>
+    </g>
+    <line id="直线_28" data-name="直线 28" class="cls-3" x2="14.481" transform="translate(146.426 246.792)"/>
+  </g>
+</svg>

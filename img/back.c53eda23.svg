@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.366" height="25.109" viewBox="0 0 28.366 25.109">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.5px;
+      }
+
+      .cls-2 {
+        filter: url(#fanhui_bai_icon);
+      }
+    </style>
+    <filter id="fanhui_bai_icon" x="0" y="0" width="28.366" height="25.109" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.451"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="fanhui_bai_icon-2" data-name="fanhui_bai_icon" class="cls-1" d="M-58-1034.932l7.115,6.534Zm.118-.167h0Zm7-6.907L-58-1035.472Z" transform="translate(63.75 1046.76)"/>
+  </g>
+</svg>

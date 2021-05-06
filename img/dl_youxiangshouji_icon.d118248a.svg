@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.667" height="21.484" viewBox="0 0 16.667 21.484">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #3f3c3c;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #00cb88;
+      }
+    </style>
+  </defs>
+  <g id="dl_youxiangshouji_icon" transform="translate(-73.813 -372)">
+    <path id="路径_91" data-name="路径 91" class="cls-1" d="M87.87,392.317l-1.17-6.242a7.336,7.336,0,1,0-9.459-.3l-.818,6.544"/>
+    <path id="路径_92" data-name="路径 92" class="cls-2" d="M82.063,385.5a2.146,2.146,0,1,0,4.293,0" transform="translate(-2.063 -3.557)"/>
+  </g>
+</svg>

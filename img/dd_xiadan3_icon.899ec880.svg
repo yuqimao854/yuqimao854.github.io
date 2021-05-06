@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #bababa;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #bababa;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="dd_xiadan3_icon" transform="translate(-33 -108)">
+    <g id="椭圆_35" data-name="椭圆 35" class="cls-1" transform="translate(33 108)">
+      <circle class="cls-3" cx="10" cy="10" r="10"/>
+      <circle class="cls-4" cx="10" cy="10" r="9"/>
+    </g>
+    <circle id="椭圆_36" data-name="椭圆 36" class="cls-2" cx="4" cy="4" r="4" transform="translate(39 114)"/>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #f8f8f8;
+        stroke-width: 70px;
+        opacity: 0.33;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        filter: url(#椭圆_32);
+      }
+
+      .cls-7 {
+        filter: url(#椭圆_31);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_89" data-name="矩形 89" class="cls-1" width="375" height="812"/>
+    </clipPath>
+    <filter id="椭圆_31" x="121" y="-208" width="466" height="466" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="椭圆_32" x="-171" y="483" width="466" height="466" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="dl_bjtu" class="cls-2">
+    <g id="组_152" data-name="组 152">
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="椭圆_31-2" data-name="椭圆 31" class="cls-3" transform="translate(196 -143)">
+          <circle class="cls-4" cx="158" cy="158" r="158"/>
+          <circle class="cls-5" cx="158" cy="158" r="123"/>
+        </g>
+      </g>
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="椭圆_32-2" data-name="椭圆 32" class="cls-3" transform="translate(-96 548)">
+          <circle class="cls-4" cx="158" cy="158" r="158"/>
+          <circle class="cls-5" cx="158" cy="158" r="123"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
