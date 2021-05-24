@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1fab89;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #f3fef8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="_16pt-打钩" data-name="16pt-打钩" transform="translate(-24 -566)">
+    <rect id="矩形_148" data-name="矩形 148" class="cls-1" width="16" height="16" transform="translate(24 566)"/>
+    <path id="路径_200" data-name="路径 200" class="cls-2" d="M27.134,574l5.333,5.267,5.333-10.4"/>
+  </g>
+</svg>
